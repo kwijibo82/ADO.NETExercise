@@ -1,0 +1,11 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\bin\Debug\PreparacionExamenExtraAD.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\bin\Debug\PreparacionExamenExtraAD.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\bin\Debug\PreparacionExamenExtraAD.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.Form1.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.FormulariModificarEspecialitatConnectat.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.FormulariModificarEspecialitatsDesconnectat.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\PreparacionExamenExtraAD\PreparacionExamenExtraAD\obj\Debug\PreparacionExamenExtraAD.csprojResolveAssemblyReference.cache
